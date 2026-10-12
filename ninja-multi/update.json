@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "1.0.3",
-    "notes": "ปรับข้อความบนหน้าต่างอัปเดตให้สั้นและเรียบง่าย ไม่แสดงรายละเอียดทางเทคนิค\n- หน้าต่างอัปเดตบอกแค่เวอร์ชันเดิม เวอร์ชันใหม่ และรายละเอียดที่ผู้พัฒนาเขียนไว้\n- ระหว่างอัปเดตแสดงแค่แถบความคืบหน้ากับข้อความให้รอ ไม่บอกขั้นตอนการทำงาน\n- ถ้าอัปเดตไม่สำเร็จ แจ้งให้ลองใหม่หรือเปิดโปรแกรมภายหลัง (รายละเอียดอยู่ในบันทึกการทำงาน)",
-    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.3/NinjaMulti.exe",
-    "sha256": "7B870F81E609B9BA373A74768FF7728C037763CB25A6EEA13CC018C8E995630D",
-    "size": 83868455,
+    "version": "1.0.4",
+    "notes": "แก้หน้าต่างอัปเดตให้แสดงผลถูกต้อง และตัดรายละเอียดทางเทคนิคออก\n- หน้าต่างอัปเดตบอกแค่เวอร์ชันเดิม เวอร์ชันใหม่ และรายละเอียดที่ผู้พัฒนาเขียนไว้\n- ระหว่างอัปเดตแสดงแค่แถบความคืบหน้ากับข้อความให้รอ ไม่บอกขั้นตอนการทำงาน\n- ถ้าอัปเดตไม่สำเร็จ หน้าต่างจะแจ้งให้ลองใหม่ หรือปิดโปรแกรมแล้วเปิดใหม่ภายหลัง\n- แก้หน้าต่างที่เคยค้างเป็นข้อความ \"กำลังอัปเดต...\" ทั้งที่อัปเดตล้มเหลวไปแล้ว",
+    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.4/NinjaMulti.exe",
+    "sha256": "8C004AFD3CC114FBCBC13F2EE7B10A131A9A8090BCDCA6DEAECEF4007104DCAA",
+    "size": 83875869,
     "mandatory": true
   },
-  "sig": "4Dx4+6XLY1H2Z1o2mrqf9cPBrXRlneLRpmNMt2lVu1VAqno6Ll5syQT7t7KmuByVYh/qJ8rQQK4b1anhl2Q21Q=="
+  "sig": "rI94slu0FuDSgW2lxqNRs1XjczUwdIgSsaC2P5W/lA3SOd65u+/h1QhFkwkz1M4XVQgIUP19UD4m1KEpBZCeUA=="
 }
