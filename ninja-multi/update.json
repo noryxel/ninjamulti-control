@@ -1,11 +1,11 @@
 {
   "payload": {
     "version": "1.0.4",
-    "notes": "Ninja Multi 1.0.4\n\n- ตรวจลายเซ็นผู้พัฒนาของไฟล์โปรแกรมและตัวติดตั้งได้แบบออฟไลน์ ไม่อาศัยข้อมูลตรวจสอบที่ผู้ใช้แก้เองได้เพียงอย่างเดียว\n- รุ่นแจกจ่ายไม่รับกุญแจตรวจลายเซ็นหรือที่อยู่ช่องทางอัปเดตจากค่าของเครื่อง\n- ทำชื่อภายในโค้ดให้อ่านยากและซ่อนข้อความภายใน โดยรักษาการตั้งค่าและการทำงานเดิม\n- ฝังประกาศเรื่องสิทธิ์และการไม่อนุญาตให้ใช้ AI แกะหรือสร้างโค้ดเลียนแบบโดยไม่ได้รับอนุญาต\n- ไม่เผยค่าตรวจสอบไฟล์ตัวติดตั้งในหน้าต่างหรือบันทึก\n\nการแก้ไขนี้ไม่ปิดเกมที่กำลังเล่นอยู่\nการป้องกันช่วยตรวจไฟล์ดัดแปลงและทำให้แกะยากขึ้น แต่ไม่สามารถป้องกันการแกะได้ 100%",
+    "notes": "",
     "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.4/NinjaMulti.exe",
     "sha256": "77814B5F3859143D3B3CF6196EC2ADA0701E5A6D77B117C36EF735FA25B179D5",
     "size": 77090115,
     "mandatory": false
   },
-  "sig": "vHvLl2SITn7aEMH9HUMNYiUoE/DFAMJ9yGW2DoxafY+AMFNrzhDY/AcZGrbNoNzwlhrdCAOOvOjIV2ouMMfktg=="
+  "sig": "Emk7sKb/gzT6NJ3iaQc+is1ly1uf6vXJGaWaQ67GVgEhXedvqEYMsxpzfOFq9CbrSI76L5Piq4xiyBwzbhIdMA=="
 }
