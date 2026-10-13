@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "1.0.5",
-    "notes": "ให้คำเตือนบอกตรง ๆ ว่าช่องไหนกำลังเล่นอยู่ และแก้การตรวจช่องของหน้าต่างเกม\n- โปรแกรมตามหากันจาก process แม่หลายชั้น จึงรู้ว่าหน้าต่างเกมแต่ละบานมาจากช่องไหน แม้ลันเชอร์จะสั่งเกมผ่านตัวอัปเดต\n- แก้การเทียบที่อยู่ไฟล์แบบสั้น-ยาว ซึ่งเคยทำให้หาไม่เจอในเครื่องที่ชื่อผู้ใช้ยาว (เช่น ADMINI~1)\n- คำสั่งปิดปรับปรุงจะบอกด้วยว่าตอนนี้ช่องไหนกำลังเล่นอยู่ กี่หน้าต่าง และหน้าต่างที่บอกช่องไม่ได้กี่บาน\n- บันทึกการทำงานเขียนช่องที่กำลังเล่นอยู่ทุกครั้งที่เปลี่ยน พร้อมชื่อไฟล์รุ่นเก่าที่ถูกล้างอัตโนมัติ",
-    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.5/NinjaMulti.exe",
-    "sha256": "585B5CDE1C66503D9550EDA821A5B5FECC7B167EF9B0DA29C2FB545A12DDBA45",
-    "size": 83910157,
+    "version": "1.0.0",
+    "notes": "",
+    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.0/NinjaMulti.exe",
+    "sha256": "3DBD7D9AF2A7C3E8C1CD7A4056559BA06A328AFEEEABE4470319DFC8C1A7FCC9",
+    "size": 83959126,
     "mandatory": true
   },
-  "sig": "RrgpZEn1zO/17CC4H4E/RLTcuExGuIpAvrYqsH4yFuTMZ8zdQMs9EzZyXqKIV1/z1IOFaVBddBdX5KfQ39wM5g=="
+  "sig": "o/X2yuc1ZjlcMM97+Y3RM8EvihPbcFbBSDdItP7fJzUA34i6R5lg9G+Ck2Osu9yDo2gZxl5evCqf5iG1FWq2+A=="
 }
