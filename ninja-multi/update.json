@@ -1,13 +1,13 @@
 {
-  "payload": {
-    "version": "1.0.5",
-    "notes": "",
-    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.5/NinjaMulti.exe",
-    "sha256": "DFE8C4B6663B62DD58F843412D615B55EB197DA43EC7434FD30EDF1982ABC9CD",
-    "size": 77110890,
-    "mandatory": false,
-    "protocol": 2
-  },
-  "sig": "iNFaT6SbZUEmdus+2kZsEwQ6QverO1w7FAugGxjWnZw86fug40wukjY6sj3/IDJdnxjDqFOnyoAMmia4kFmLVw==",
-  "sigV2": "mb8I0iW99JV3v6pCsEvbmnMgSsWaBWG+x8LBH8Zx4frcY76U4KC+gJfZHs3zwwuqPYbiRbieSvO8FxN6HTe/BQ=="
+    "payload":  {
+                    "version":  "1.0.7",
+                    "notes":  "ปรับคำทั้งโปรแกรมและตัวติดตั้งให้สั้นและชัดขึ้น เรียกช่องว่า ลันเชอร์ ทุกจุด จัดปุ่มใช้งานใหม่ตามลำดับที่ใช้บ่อย ปุ่มคีย์บอร์ดเดินตามลำดับเดียวกับที่เห็น ไม่มีรหัสภายในหรือข้อความทางเทคนิคหลุดไปในข้อความที่ผู้เล่นอ่านอีก อัปเดตแล้วไอคอนอยู่ที่เดิมเพราะไม่ทิ้งไฟล์ใหม่ไว้ข้างโปรแกรม และเลขเวอร์ชันย้ายไปต่อท้ายชื่อ Ninja Multi",
+                    "url":  "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.7/NinjaMulti.exe",
+                    "sha256":  "B2E0CE59F38669779BB53314844C04CF840F07BAD05FFFB66A90BC4140712170",
+                    "size":  77117975,
+                    "mandatory":  false,
+                    "protocol":  2
+                },
+    "sig":  "tZTJpNsybY7/COyc5/G61wewTBVf22Bd9MGO6woXw2jPiNMZJW86zIMEkPVQsZWu3vmLyK9XwSqAyq//R30zOg==",
+    "sigV2":  "I/XSKKNuK6wo3axu2gxml5CaA4V81VuSYQ7jpYMQo+hovaUWfBuLnOhTa4qKtpltFGny6I+9J+w2ekD5yoqurw=="
 }
