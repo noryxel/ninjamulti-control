@@ -2,7 +2,12 @@
   "payload": {
     "active": false,
     "message": "",
-    "minVersion": ""
+    "minVersion": "",
+    "protocol": 2,
+    "sequence": 1791926297113,
+    "issuedAt": 1791926297,
+    "expiresAt": 1792012697
   },
-  "sig": "ajvETFhuOSPIdOTiwEZR8SZcI6GlV+QlfLwpVD6KLZX2sgKN967ZsKYLQjVwon4C4VTOEC1UE/haVW7Jb3BFWw=="
+  "sig": "yymz8Ci19l1PYMCeGqmFFhnweNr9iWjDFg5kOpG/p0lYHjF3B52UTu28Fkxgt4skBA/kwD7xxJt743LzcTVVJw==",
+  "sigV2": "0xiUHZ1J39+fsd2H+InzpMf5fHnr8My6GoJSCKgNhuMlWvKPma++7seI8+87Waa/gnuMkEY3rIw5e5W1bj4Hww=="
 }
