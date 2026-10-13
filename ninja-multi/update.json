@@ -1,11 +1,11 @@
 {
   "payload": {
-    "version": "1.0.0",
-    "notes": "",
-    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.0/NinjaMulti.exe",
-    "sha256": "516D8C960F0B1AB5EAE679CAAB8D635ED7B612694B6066D31188AB79512BDE17",
-    "size": 83958440,
-    "mandatory": true
+    "version": "1.0.2",
+    "notes": "Ninja Multi 1.0.2\n\n- แก้การปฏิเสธไฟล์รุ่นใหม่ที่ถูกต้อง โดยสร้างโปรแกรมและตัวติดตั้งด้วยเลขรุ่นที่ตรงกัน\n- ไม่แสดงค่าตรวจสอบไฟล์ในหน้าต่างแจ้งเตือนและบันทึกของตัวติดตั้ง\n- แก้การอัปเดตจากเมนูให้ดำเนินการต่อได้ครบ และยกเลิกงานที่ยังค้างเมื่อปิดหน้าต่างอัปเดต\n- จำกัดการล้างไฟล์เก่าเฉพาะไฟล์ของโปรแกรม ไม่ลบไฟล์อื่นหรือไฟล์อัปเดตที่กำลังใช้งาน\n- ไม่ถอนการติดตั้งโปรแกรมอื่นที่มีชื่อขึ้นต้นคล้าย Ninja Multi\n- ตรวจไฟล์โปรแกรมและตัวติดตั้งที่ดาวน์โหลดได้จริงก่อนเปิดให้อัปเดต\n\nการแก้ไขนี้ไม่ปิดเกมที่กำลังเล่นอยู่",
+    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.2/NinjaMulti.exe",
+    "sha256": "FD957F69F2AB70AED32BF4B67E9C0AF3143759B2D699A8FB0E7350B9D07174C9",
+    "size": 83961115,
+    "mandatory": false
   },
-  "sig": "cJ5b3cgjPGtgEFhNs9RJ976CTsjambt15m6Fh3h4hdst7HZFgIqCYPUI43S3v3Nnl47EfBPDnjk+DENpDQrsrw=="
+  "sig": "SHlKTHM/BnuTnP30tQaDIWsVSvj5htrpiA3WeN6mHdfNK+0mAqAlIIotff4NUBnpzUTh92xWHes99NHerQEGJg=="
 }
