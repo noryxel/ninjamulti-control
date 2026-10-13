@@ -1,8 +1,8 @@
 {
   "payload": {
-    "active": true,
+    "active": false,
     "message": "",
     "minVersion": ""
   },
-  "sig": "LjB3YZb4BGYJJtrGWXRY33M2eG22QCh0Bbw2liX0xpNATmf0Jqx717ggWBNW4LlWKrkBhTJBtgKLj299np9NeA=="
+  "sig": "ajvETFhuOSPIdOTiwEZR8SZcI6GlV+QlfLwpVD6KLZX2sgKN967ZsKYLQjVwon4C4VTOEC1UE/haVW7Jb3BFWw=="
 }
