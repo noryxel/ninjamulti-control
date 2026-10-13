@@ -1,8 +1,8 @@
 {
-    "payload":  {
-                    "active":  false,
-                    "message":  "",
-                    "minVersion":  ""
-                },
-    "sig":  "OHqhzz99iYhrQ//rLAcqrBTZPIVeZBlrWfZyqPt+SOcvaYqi+VFp/etNHXmIIwAqZk9Psn9ruWqurbY2sPSENw=="
+  "payload": {
+    "active": true,
+    "message": "ทดสอบคำสั่งปิด Ninja Multi ผ่าน GitHub ชั่วคราว เกมที่เปิดอยู่จะไม่ถูกปิด [886579]",
+    "minVersion": ""
+  },
+  "sig": "Mu5+yCPKHIg0Y7nHoXbOc57Fqos5hkfazqC0m8qeUgVx8MyKxWfwbas36gZUZ6Bn8j0hsvgdiH94vPLWCndebw=="
 }
