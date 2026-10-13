@@ -1,11 +1,13 @@
 {
   "payload": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "notes": "",
-    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.4/NinjaMulti.exe",
-    "sha256": "77814B5F3859143D3B3CF6196EC2ADA0701E5A6D77B117C36EF735FA25B179D5",
-    "size": 77090115,
-    "mandatory": false
+    "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.5/NinjaMulti.exe",
+    "sha256": "DFE8C4B6663B62DD58F843412D615B55EB197DA43EC7434FD30EDF1982ABC9CD",
+    "size": 77110890,
+    "mandatory": false,
+    "protocol": 2
   },
-  "sig": "Emk7sKb/gzT6NJ3iaQc+is1ly1uf6vXJGaWaQ67GVgEhXedvqEYMsxpzfOFq9CbrSI76L5Piq4xiyBwzbhIdMA=="
+  "sig": "iNFaT6SbZUEmdus+2kZsEwQ6QverO1w7FAugGxjWnZw86fug40wukjY6sj3/IDJdnxjDqFOnyoAMmia4kFmLVw==",
+  "sigV2": "mb8I0iW99JV3v6pCsEvbmnMgSsWaBWG+x8LBH8Zx4frcY76U4KC+gJfZHs3zwwuqPYbiRbieSvO8FxN6HTe/BQ=="
 }
