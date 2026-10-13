@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "notes": "",
     "url": "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.0/NinjaMulti.exe",
-    "sha256": "3DBD7D9AF2A7C3E8C1CD7A4056559BA06A328AFEEEABE4470319DFC8C1A7FCC9",
-    "size": 83959126,
+    "sha256": "516D8C960F0B1AB5EAE679CAAB8D635ED7B612694B6066D31188AB79512BDE17",
+    "size": 83958440,
     "mandatory": true
   },
-  "sig": "q1CEHeqjBeBhyAEBx/7bkltgPHvPqIfceJhgik0ficDz2YkmGmPt+LJkuFbLOQWpDxBkGByUbFpYNkmcGDje+Q=="
+  "sig": "cJ5b3cgjPGtgEFhNs9RJ976CTsjambt15m6Fh3h4hdst7HZFgIqCYPUI43S3v3Nnl47EfBPDnjk+DENpDQrsrw=="
 }
