@@ -1,13 +1,13 @@
 {
   "payload": {
     "active": true,
-    "message": "เกมปิดปรับปรุงนะวัยรุ่น",
+    "message": "เกมปิดปรับปรุง",
     "minVersion": "",
     "protocol": 2,
-    "sequence": 1791926297113,
-    "issuedAt": 1791926297,
-    "expiresAt": 1792012697
+    "sequence": 1792001812141,
+    "issuedAt": 1792001812,
+    "expiresAt": 1792088212
   },
-  "sig": "yymz8Ci19l1PYMCeGqmFFhnweNr9iWjDFg5kOpG/p0lYHjF3B52UTu28Fkxgt4skBA/kwD7xxJt743LzcTVVJw==",
-  "sigV2": "0xiUHZ1J39+fsd2H+InzpMf5fHnr8My6GoJSCKgNhuMlWvKPma++7seI8+87Waa/gnuMkEY3rIw5e5W1bj4Hww=="
+  "sig": "kH+YpxL3676Jrr0VHVwNbRADmhhCD2n11O0ls4jMjyNXGXP97OkfY1/BRWEyLH+B2/IylmUfGlPfmeUYiqR9Bw==",
+  "sigV2": "p1/Kt1Qy37pK0nX11gsmKfbtjerFVo5FjdYuoZIJ+PGGRJIVDUOq8aQU5DdYuhKr/MY9AKZAx5wHqLWI7Ksrfg=="
 }
