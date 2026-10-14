@@ -1,6 +1,6 @@
 {
   "payload": {
-    "active": false,
+    "active": true,
     "message": "",
     "minVersion": "",
     "protocol": 2,
