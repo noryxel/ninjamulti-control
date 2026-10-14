@@ -1,13 +1,13 @@
 {
     "payload":  {
-                    "version":  "1.0.7",
-                    "notes":  "ปรับคำทั้งโปรแกรมและตัวติดตั้งให้สั้นและชัดขึ้น เรียกช่องว่า ลันเชอร์ ทุกจุด จัดปุ่มใช้งานใหม่ตามลำดับที่ใช้บ่อย ปุ่มคีย์บอร์ดเดินตามลำดับเดียวกับที่เห็น ไม่มีรหัสภายในหรือข้อความทางเทคนิคหลุดไปในข้อความที่ผู้เล่นอ่านอีก อัปเดตแล้วไอคอนอยู่ที่เดิมเพราะไม่ทิ้งไฟล์ใหม่ไว้ข้างโปรแกรม และเลขเวอร์ชันย้ายไปต่อท้ายชื่อ Ninja Multi",
-                    "url":  "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.7/NinjaMulti.exe",
-                    "sha256":  "B2E0CE59F38669779BB53314844C04CF840F07BAD05FFFB66A90BC4140712170",
-                    "size":  77117975,
+                    "version":  "1.0.8",
+                    "notes":  "แยกโปรแกรมออกเป็น 4 แท็บตามงานที่ใช้จริง ทั้งลันเชอร์ ตัวเกม การตั้งค่า และบันทึกการทำงาน ตัวหนังสือใหญ่ขึ้นทุกจุดโดยเฉพาะบันทึกการทำงาน ปุ่มทุกปุ่มมีสีบอกหน้าที่ของตัวเอง ปุ่มตรวจอัปเดตเด่นขึ้นบนแถบชื่อเรื่อง ส่วนตัวติดตั้งซ่อมโลโก้วงแหวนซาสึเกะที่ซ้อนกันสองวงจนดูเพี้ยนให้กลับเป็นวงเดียว และขยับนาฬิกากับปุ่มตรวจอัปเดตไม่ให้ทับเส้นกับชื่อโปรแกรมอีก",
+                    "url":  "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.8/NinjaMulti.exe",
+                    "sha256":  "B70DF1BB83FB8E0AF0D1C903A5F14AFB0002725A9274BDED4F22B3447CAEE314",
+                    "size":  77123071,
                     "mandatory":  false,
                     "protocol":  2
                 },
-    "sig":  "4dDAb2KqOOHoUVgOv2WX2R1UAG26MvdWOqbE7DU0jJHLzgSj+cagCfevmwVZgWQKtNhgnzNVFYZzATj5xbFmCQ==",
-    "sigV2":  "WUPkGuJ4nBvrNVTJOwzu1eqnKYiuj7wZyx5hWAjxy2rtTMT4fXmMlCMtny7cIeKWAWr9CeG4COvNaFXa6ylNhw=="
+    "sig":  "Ym9TFz0hsFThTXKLufQr/eY93ZcfN1EwE7WHz8YXE8sIS+Zoe7HRWy1P7L++1NpgzdgdHQRjRkVEpyDsADjDCw==",
+    "sigV2":  "fXi0uP0UVi7wlEWFH6HicVo8VsquBAairrEUg554dNONuHlp1xzv+gO+3U42MwB1RZ3Y2uDCwggij3duJHWerQ=="
 }
