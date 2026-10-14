@@ -1,13 +1,13 @@
 {
     "payload":  {
-                    "version":  "1.0.8",
-                    "notes":  "แยกโปรแกรมออกเป็น 4 แท็บตามงานที่ใช้จริง ทั้งลันเชอร์ ตัวเกม การตั้งค่า และบันทึกการทำงาน ตัวหนังสือใหญ่ขึ้นทุกจุดโดยเฉพาะบันทึกการทำงาน ปุ่มทุกปุ่มมีสีบอกหน้าที่ของตัวเอง ปุ่มตรวจอัปเดตเด่นขึ้นบนแถบชื่อเรื่อง ส่วนตัวติดตั้งซ่อมโลโก้วงแหวนซาสึเกะที่ซ้อนกันสองวงจนดูเพี้ยนให้กลับเป็นวงเดียว และขยับนาฬิกากับปุ่มตรวจอัปเดตไม่ให้ทับเส้นกับชื่อโปรแกรมอีก",
-                    "url":  "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.8/NinjaMulti.exe",
-                    "sha256":  "B70DF1BB83FB8E0AF0D1C903A5F14AFB0002725A9274BDED4F22B3447CAEE314",
-                    "size":  77123071,
+                    "version":  "1.0.9",
+                    "notes":  "1.0.9: ปุ่มคงสีประจำตัวแม้กดไม่ได้แล้ว (คืนลันเซอร์กับซ่อมไฟล์ยังเขียว ค้นหาใหม่กับตรวจอัปเดตยังฟ้า ปิดหน้าต่างทั้งหมดกับถอนการติดตั้งยังแดง) กดคืนทั้งหมดแล้วสีกลับถูกต้องทุกปุ่มทั้งตัว multi และตัวติดตั้ง นาฬิกาบนแถบชื่อเรื่องเด่นขึ้นเป็นตัวเลขทองบนเม็ดยาไล่เฉดพร้อมแสงเรือง\n\nแยกโปรแกรมออกเป็น 4 แท็บตามงานที่ใช้จริง ทั้งลันเชอร์ ตัวเกม การตั้งค่า และบันทึกการทำงาน ตัวหนังสือใหญ่ขึ้นทุกจุดโดยเฉพาะบันทึกการทำงาน ปุ่มทุกปุ่มมีสีบอกหน้าที่ของตัวเอง ปุ่มตรวจอัปเดตเด่นขึ้นบนแถบชื่อเรื่อง ส่วนตัวติดตั้งซ่อมโลโก้วงแหวนซาสึเกะที่ซ้อนกันสองวงจนดูเพี้ยนให้กลับเป็นวงเดียว และขยับนาฬิกากับปุ่มตรวจอัปเดตไม่ให้ทับเส้นกับชื่อโปรแกรมอีก",
+                    "url":  "https://github.com/haremking7025/ninjamulti-control/releases/download/ninja-multi-v1.0.9/NinjaMulti.exe",
+                    "sha256":  "E106A824646C7C2400E10CF01F1AF635E9602B21A3FF0651B023511C6390B596",
+                    "size":  77123938,
                     "mandatory":  false,
                     "protocol":  2
                 },
-    "sig":  "Ym9TFz0hsFThTXKLufQr/eY93ZcfN1EwE7WHz8YXE8sIS+Zoe7HRWy1P7L++1NpgzdgdHQRjRkVEpyDsADjDCw==",
-    "sigV2":  "fXi0uP0UVi7wlEWFH6HicVo8VsquBAairrEUg554dNONuHlp1xzv+gO+3U42MwB1RZ3Y2uDCwggij3duJHWerQ=="
+    "sig":  "PR0dHz/9SPIB4vkDApR2H3IyJgyMPVfh96tIvACOQcxdQ0fv0iZsxm7MO4zSUNLbT7BtN7Q7QXDo9VLOMIaTMg==",
+    "sigV2":  "rMtgHGLE3bLCRCicf/1MwnqKjaW4O8pYcv7phyl3gwcIjwP+0pOIIcagQKPn0LXnqjEv2BciwmVGxSwIqTqHGg=="
 }
