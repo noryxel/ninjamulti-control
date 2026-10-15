@@ -1,13 +1,13 @@
 {
-  "payload": {
-    "active": true,
-    "message": "เกมปิดปรับปรุง",
-    "minVersion": "",
-    "protocol": 2,
-    "sequence": 1792001812141,
-    "issuedAt": 1792001812,
-    "expiresAt": 1792088212
-  },
-  "sig": "kH+YpxL3676Jrr0VHVwNbRADmhhCD2n11O0ls4jMjyNXGXP97OkfY1/BRWEyLH+B2/IylmUfGlPfmeUYiqR9Bw==",
-  "sigV2": "p1/Kt1Qy37pK0nX11gsmKfbtjerFVo5FjdYuoZIJ+PGGRJIVDUOq8aQU5DdYuhKr/MY9AKZAx5wHqLWI7Ksrfg=="
+    "payload":  {
+                    "active":  true,
+                    "message":  "ปิดให้บริการถาวรแล้ว ขอบคุณที่ใช้งานที่ผ่านมา กรุณาปิดโปรแกรมนี้แล้วลบออกจากเครื่อง",
+                    "minVersion":  "",
+                    "protocol":  2,
+                    "sequence":  1792042919794,
+                    "issuedAt":  1792042919,
+                    "expiresAt":  1792129319
+                },
+    "sig":  "DmLvhEx3JOSaoeFI8szwf3ygjPONk2x35Gdhq+0Duerf5o7V42986+FvkyFxj+il87ltqbgdNzFhLLhIFwJNxA==",
+    "sigV2":  "PsPa2CJCfjXsVqfC8XIvyM5+UMd+Dqt6RgOU6SkbJ6sJcdJb+sVO/U11kaK88clH8a/skXt74Yw5l5lxdwBeQQ=="
 }
