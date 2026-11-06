@@ -1,2 +1,16 @@
 # ninjamulti-control
-Ninja Multi update server + kill switch
+
+ช่องทางอัปเดตและ kill switch ของ Ninja Multi - **ปิดโครงการถาวรแล้ว**
+
+- `ninja-multi/kill_switch.json` - คำสั่งปิดใช้งาน (ซอง signed, protocol 2)
+- `ninja-multi/update.json` - แมนนิเฟสต์อัปเดตล่าสุด (1.0.12)
+
+## ห้ามแก้ไฟล์ด้วยมือ
+
+ไฟล์ทั้งสองมีลายเซ็น ECDSA (`sig` และ `sigV2`) และคำสั่งปิดมีอายุไม่เกิน 24 ชั่วโมงตามสเปก protocol 2
+การแก้ข้อความหรือ URL แม้แต่ตัวเดียวจะทำให้ลายเซ็นเสีย และโปรแกรมจะไม่รับคำสั่งนั้น
+ต้องเซ็นใหม่ด้วยกุญแจของโครงการเท่านั้น
+
+URL ดาวน์โหลดใน `update.json` ยังชี้ชื่อบัญชีเดิม แต่ GitHub redirect ให้ยังใช้งานได้ - ไม่ต้องแก้
+
+repo นี้ถูก archive หลังจากปิดโครงการ จึงเป็น read-only
